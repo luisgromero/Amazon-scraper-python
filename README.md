@@ -17,7 +17,7 @@ This is a command line application called amazon.py.  The application accepts a 
 
                                                 ... and so on ...
 
-## Guidelines
+## Notes
 
 1.  The program scrapes the HTML of the following page
     http://www.amazon.com/s/?field-keywords=query
